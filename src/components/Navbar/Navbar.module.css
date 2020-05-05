@@ -1,0 +1,23 @@
+.nav{
+    background-color:burlywood;
+  grid-area:n;
+  padding:20px;
+  }
+
+  .item{
+
+   color:white;
+   transition-property: color;
+   transition-duration: .5s;
+  }
+  .item a {
+    text-decoration: none;
+    color:white;
+
+  }
+  .item a.active{
+    color:rgba(94, 255, 0, 0.562);
+  }
+  .item:hover{
+    color:greenyellow;
+  }

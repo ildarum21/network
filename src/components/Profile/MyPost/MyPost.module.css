@@ -1,0 +1,10 @@
+.postsBlock{
+    padding:10px;
+}
+.posts{
+    margin-top:10px;
+}
+input,textarea{    
+    outline: none;
+    background-color: rgb(189, 184, 184);
+}
